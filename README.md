@@ -3,7 +3,7 @@
 
 📍 Hatfield, UK  
 📧 anagha.santhoshh@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/anagha-santhosh-676985215/ 
+💼 LinkedIn: www.linkedin.com/in/anagha-santhosh-profile
 🐙 GitHub: https://github.com/anaghasanthoshh
 
 ---
@@ -96,4 +96,4 @@ This repository will be updated with:
 If you’d like to connect or discuss opportunities, feel free to reach out:
 
 📧 Email: anagha.santhoshh@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+💼 LinkedIn: www.linkedin.com/in/anagha-santhosh-profile
